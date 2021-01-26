@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1580562778 source:f:\mmu\tcp2101\assignment\sorting algorithm\src\mergesort.cpp
+	"MergeSort.h"
+	<random>
+	<chrono>
+
+1580562768 f:\mmu\tcp2101\assignment\sorting algorithm\include\mergesort.h
+
+1580563534 source:f:\mmu\tcp2101\assignment\sorting algorithm\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<chrono>
+	<cmath>
+	"MergeSort.h"
+	"windows.h"
+
+1580564027 source:g:\mmu\tcp2101\assignment\sorting algorithm\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<chrono>
+	<cmath>
+	"MergeSort.h"
+	"windows.h"
+
+1580562768 g:\mmu\tcp2101\assignment\sorting algorithm\include\mergesort.h
+
+1580562778 source:g:\mmu\tcp2101\assignment\sorting algorithm\src\mergesort.cpp
+	"MergeSort.h"
+	<random>
+	<chrono>
+
